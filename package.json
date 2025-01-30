@@ -1,8 +1,0 @@
-{
-  "name": "total-bronze",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "mkdir -p dist && cp -r css js *.html dist/",
-    "start": "python3 -m http.server"
-  }
-}
